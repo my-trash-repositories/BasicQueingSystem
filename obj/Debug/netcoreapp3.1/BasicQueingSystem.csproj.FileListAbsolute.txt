@@ -1,0 +1,17 @@
+C:\Users\Personal\source\repos\BasicQueingSystem\bin\Debug\netcoreapp3.1\BasicQueingSystem.exe
+C:\Users\Personal\source\repos\BasicQueingSystem\bin\Debug\netcoreapp3.1\BasicQueingSystem.deps.json
+C:\Users\Personal\source\repos\BasicQueingSystem\bin\Debug\netcoreapp3.1\BasicQueingSystem.runtimeconfig.json
+C:\Users\Personal\source\repos\BasicQueingSystem\bin\Debug\netcoreapp3.1\BasicQueingSystem.runtimeconfig.dev.json
+C:\Users\Personal\source\repos\BasicQueingSystem\bin\Debug\netcoreapp3.1\BasicQueingSystem.dll
+C:\Users\Personal\source\repos\BasicQueingSystem\bin\Debug\netcoreapp3.1\BasicQueingSystem.pdb
+C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQueingSystem.csproj.AssemblyReference.cache
+C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQueingSystem.CashierWindowQueueForm.resources
+C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQueingSystem.QueingForm.resources
+C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQueingSystem.csproj.GenerateResource.cache
+C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQueingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQueingSystem.AssemblyInfoInputs.cache
+C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQueingSystem.AssemblyInfo.cs
+C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQueingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQueingSystem.dll
+C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQueingSystem.pdb
+C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQueingSystem.genruntimeconfig.cache

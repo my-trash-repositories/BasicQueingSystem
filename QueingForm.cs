@@ -16,6 +16,7 @@ namespace BasicQueingSystem
         public QueingForm()
         {
             InitializeComponent();
+            new CashierWindowQueueForm().Show();
             cashier = new CashierClass();
 
         }
