@@ -43,6 +43,7 @@ namespace BasicQueingSystem
             this.button1.TabIndex = 0;
             this.button1.Text = "Cashier";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -64,7 +65,7 @@ namespace BasicQueingSystem
             this.label2.TabIndex = 2;
             this.label2.Text = "P-10007";
             // 
-            // Form1
+            // QueingForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -72,7 +73,7 @@ namespace BasicQueingSystem
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
+            this.Name = "QueingForm";
             this.Text = "QueingForm";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
