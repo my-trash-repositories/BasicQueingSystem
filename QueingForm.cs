@@ -13,17 +13,13 @@ namespace BasicQueingSystem
     public partial class QueingForm : Form
     {
         private CashierClass cashier;
+        private CashierWindowQueueForm windowForm = new CashierWindowQueueForm();
+
         public QueingForm()
         {
             InitializeComponent();
-            new CashierWindowQueueForm().Show();
+            windowForm.Show();
             cashier = new CashierClass();
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -31,6 +27,7 @@ namespace BasicQueingSystem
             label2.Text = cashier.CashierGeneratedNumber("P - ");
             CashierClass.getNumberInQueue = label2.Text;
             CashierClass.CashierQueue.Enqueue(CashierClass.getNumberInQueue);
+            windowForm.DisplayCashierQueue(CashierClass.CashierQueue);
         }
     }
 }
