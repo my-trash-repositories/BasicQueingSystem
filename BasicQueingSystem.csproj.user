@@ -4,6 +4,9 @@
     <Compile Update="CashierWindowQueueForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="CustomerView.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="QueingForm.cs">
       <SubType>Form</SubType>
     </Compile>

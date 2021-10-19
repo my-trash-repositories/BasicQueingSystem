@@ -15,3 +15,4 @@ C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQu
 C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQueingSystem.dll
 C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQueingSystem.pdb
 C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQueingSystem.genruntimeconfig.cache
+C:\Users\Personal\source\repos\BasicQueingSystem\obj\Debug\netcoreapp3.1\BasicQueingSystem.CustomerView.resources

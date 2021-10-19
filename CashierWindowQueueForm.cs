@@ -12,11 +12,12 @@ namespace BasicQueingSystem
 {
     public partial class CashierWindowQueueForm : Form
     {
+        CustomerView customerView;
         public CashierWindowQueueForm()
         {
-
             InitializeComponent();
-
+            customerView = new CustomerView();
+            customerView.Show();
         }
 
         public void DisplayCashierQueue(IEnumerable CashierList)
@@ -24,8 +25,14 @@ namespace BasicQueingSystem
             listView1.Items.Clear();
             listView1.View = View.Details;
             listView1.Columns[0].Width = listView1.Width - 4;
+            bool added = false;
             foreach (Object obj in CashierList)
             {
+                if (!added)
+                {
+                    customerView.changeServing(obj.ToString());
+                }
+                added = true;
                 listView1.Items.Add(obj.ToString());
             }
         }
