@@ -61,9 +61,9 @@ namespace BasicQueingSystem
             this.label2.Font = new System.Drawing.Font("Segoe UI", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label2.Location = new System.Drawing.Point(281, 80);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(287, 86);
+            this.label2.Size = new System.Drawing.Size(323, 86);
             this.label2.TabIndex = 2;
-            this.label2.Text = "P-10007";
+            this.label2.Text = "P - 10000";
             // 
             // QueingForm
             // 

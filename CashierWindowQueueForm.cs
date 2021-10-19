@@ -5,6 +5,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Text;
+using System.Timers;
 using System.Windows.Forms;
 
 namespace BasicQueingSystem
@@ -13,7 +14,9 @@ namespace BasicQueingSystem
     {
         public CashierWindowQueueForm()
         {
+
             InitializeComponent();
+
         }
 
         public void DisplayCashierQueue(IEnumerable CashierList)
